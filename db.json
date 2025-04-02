@@ -1,0 +1,28 @@
+{
+  "sanpham": [
+    {
+      "id": "4",
+      "name": "poco",
+      "price": 8000,
+      "image": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
+    },
+    {
+      "id": "e5fa",
+      "name": "2332",
+      "price": "232",
+      "image": "2323"
+    },
+    {
+      "id": "73bd",
+      "name": "2332",
+      "price": "232",
+      "image": "2323"
+    },
+    {
+      "id": "08af",
+      "name": "777",
+      "price": "77",
+      "image": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
+    }
+  ]
+}
